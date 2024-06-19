@@ -9,7 +9,7 @@ npm i
 * **PORT** - port for listening
 PORT should be set in env.ts file
 
-CONNECTION TO DATABASE SHOULD BE CONFIGURED IN databse.ts file
+CONNECTION TO DATABASE SHOULD BE CONFIGURED IN src/dbConfig.ts for both, mock and original DataSourceConfigs
 
 # Running developer mode
 
